@@ -207,6 +207,8 @@
             "2008",
             "2012",
             "2014",
+            "2016",
+            "2017",
             "HANA"});
             this.comboBox1.Location = new System.Drawing.Point(299, 32);
             this.comboBox1.Name = "comboBox1";
@@ -380,7 +382,7 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "CreateField 1.0";
+            this.Text = "CreateField 1.1";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_Closing);
             this.Load += new System.EventHandler(this.Form1_Load_1);
             this.ResumeLayout(false);

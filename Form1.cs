@@ -97,6 +97,14 @@ namespace CreateField
                 {
                     oCompany.DbServerType = BoDataServerTypes.dst_MSSQL2014;
                 }
+                else if (comboBox1.Text == "2016")
+                {
+                    oCompany.DbServerType = BoDataServerTypes.dst_MSSQL2016;
+                }
+                else if (comboBox1.Text == "2017")
+                {
+                    oCompany.DbServerType = BoDataServerTypes.dst_MSSQL2017;
+                }
                 else if (comboBox1.Text == "HANA")
                 {
                     oCompany.DbServerType = BoDataServerTypes.dst_HANADB;

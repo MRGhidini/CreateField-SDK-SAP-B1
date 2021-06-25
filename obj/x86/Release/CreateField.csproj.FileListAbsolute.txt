@@ -1,0 +1,9 @@
+C:\Users\teste\Desktop\Dados VM 9.1\Addon\CreateField\Gifub\CreateField-SDK-SAP-B1\obj\x86\Release\Interop.SAPbobsCOM.dll
+C:\Users\teste\Desktop\Dados VM 9.1\Addon\CreateField\Gifub\CreateField-SDK-SAP-B1\obj\x86\Release\CreateField.csproj.ResolveComReference.cache
+C:\Users\teste\Desktop\Dados VM 9.1\Addon\CreateField\Gifub\CreateField-SDK-SAP-B1\bin\Release\CreateField.exe
+C:\Users\teste\Desktop\Dados VM 9.1\Addon\CreateField\Gifub\CreateField-SDK-SAP-B1\bin\Release\CreateField.pdb
+C:\Users\teste\Desktop\Dados VM 9.1\Addon\CreateField\Gifub\CreateField-SDK-SAP-B1\obj\x86\Release\CreateField.Form1.resources
+C:\Users\teste\Desktop\Dados VM 9.1\Addon\CreateField\Gifub\CreateField-SDK-SAP-B1\obj\x86\Release\CreateField.Properties.Resources.resources
+C:\Users\teste\Desktop\Dados VM 9.1\Addon\CreateField\Gifub\CreateField-SDK-SAP-B1\obj\x86\Release\CreateField.csproj.GenerateResource.Cache
+C:\Users\teste\Desktop\Dados VM 9.1\Addon\CreateField\Gifub\CreateField-SDK-SAP-B1\obj\x86\Release\CreateField.exe
+C:\Users\teste\Desktop\Dados VM 9.1\Addon\CreateField\Gifub\CreateField-SDK-SAP-B1\obj\x86\Release\CreateField.pdb
