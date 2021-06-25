@@ -9,7 +9,7 @@ Imagine that you need to create fields in tables that SAP does not allow to be c
 # Requirements
 
 * Must have DI and API installed.
-* Database, can be used SQL 2005, 2008, 2012, 2014 and HANA
+* Database, can be used SQL 2005, 2008, 2012, 2014, 2016, 2017 and HANA
 
 # Usage
 
