@@ -10,6 +10,7 @@ Imagine that you need to create fields in tables that SAP does not allow to be c
 
 * Must have DI and API installed.
 * Database, can be used SQL 2005, 2008, 2012, 2014, 2016, 2017 and HANA
+* SAP versions 9.0, 9.1, 9.2 and 9.3
 
 # Usage
 
